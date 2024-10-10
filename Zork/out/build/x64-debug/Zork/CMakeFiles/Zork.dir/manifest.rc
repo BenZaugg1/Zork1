@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/bzaugg/Programs/CS 1410/Zork/Zork/out/build/x64-debug/Zork/CMakeFiles/Zork.dir/embed.manifest"
